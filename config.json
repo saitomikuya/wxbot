@@ -1,0 +1,7 @@
+{
+  "bot_wxid": "wxid_xxxxxxxxxx",
+  "bot_default_name": "微信昵称",
+  "dll_loader_name": "Loader_4.1.2.17.dll",
+  "dll_helper_name": "Helper_4.1.2.17.dll",
+  "max_workers": 10
+}
